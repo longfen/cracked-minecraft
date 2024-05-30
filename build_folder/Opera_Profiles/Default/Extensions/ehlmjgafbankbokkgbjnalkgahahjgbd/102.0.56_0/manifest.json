@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/logo.png",
+         "32": "icons/logo.png"
+      },
+      "theme_icons": [ {
+         "dark": "icons/logo.png",
+         "light": "icons/logo.png",
+         "size": 16
+      }, {
+         "dark": "icons/logo.png",
+         "light": "icons/logo.png",
+         "size": 32
+      } ]
+   },
+   "author": "Opera Norway AS",
+   "description": "Opera Intro",
+   "developer": {
+      "name": "Opera Norway AS",
+      "url": "https://opera.com"
+   },
+   "homepage_url": "https://opera.com",
+   "icons": {
+      "128": "icons/logo.png",
+      "32": "icons/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+xjWveBjNqYOzYGpJ1CWHv94bna667U1AF9rsbX9k5JhpjNCcCYYEtsMP8h1gCPzFanclndbrZHUgmgX3FTw7nRBTLEwMfGwWjjvUYWBPdfd8jDh6MPBHEEMpHwWo01/IE4ec/WAx1WF660r8WVqfEqzY9zFYhjWWk+R313NbvAxXGnlScgwye+1PUWZil4O+VdP7yP62J2I+xHzI1VavXg9tyVXRCURZH7F7/u2UvnLzZw0jgYueQBFspb1MzxYYS3LGocmI8KpK3uRWZE6aEGyO0OwiG74sJtbHz9WJCTdBzpkFBSy2sy/LJoHyfUOznIaM0P5ZdlDVo/TZIrijwIDAQAB",
+   "manifest_version": 3,
+   "name": "opera-intro",
+   "permissions": [ "browserSidebarPrivate", "developerPrivate", "management", "adblockerPrivate", "addonsPrivate", "contentFilterPrivate", "defaultBrowserPrivate", "importPrivate", "introductionPrivate", "locationPrivate", "operaIdentityPrivate", "palette", "settingsPrivate", "statsPrivate", "storage", "tabs", "locationPrivate", "wallpapersPrivate" ],
+   "version": "102.0.56"
+}

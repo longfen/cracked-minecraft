@@ -1,0 +1,6 @@
+2024/05/27-16:16:44.519 1c98 Creating DB C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.quora.com_0.indexeddb.leveldb since it was missing.
+2024/05/27-16:16:44.525 1c98 Reusing MANIFEST C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/27-16:17:01.539 15bc Level-0 table #5: started
+2024/05/27-16:17:01.545 15bc Level-0 table #5: 3110 bytes OK
+2024/05/27-16:17:01.547 15bc Delete type=0 #3
+2024/05/27-16:17:01.547 15bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

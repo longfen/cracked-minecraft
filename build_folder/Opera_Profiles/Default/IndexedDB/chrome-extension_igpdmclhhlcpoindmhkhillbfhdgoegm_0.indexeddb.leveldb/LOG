@@ -1,0 +1,7 @@
+2024/05/30-15:31:42.573 1b38 Reusing MANIFEST C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/30-15:31:42.573 1b38 Recovering log #392
+2024/05/30-15:31:42.574 1b38 Reusing old log C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000392.log 
+2024/05/30-15:31:42.579 1ef8 Level-0 table #398: started
+2024/05/30-15:31:42.583 1ef8 Level-0 table #398: 10738 bytes OK
+2024/05/30-15:31:42.585 1ef8 Delete type=0 #392
+2024/05/30-15:31:42.586 54e4 Manual compaction at level-0 from '\x00g\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at (end)
