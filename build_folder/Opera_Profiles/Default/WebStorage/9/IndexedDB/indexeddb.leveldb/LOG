@@ -1,6 +1,0 @@
-2024/05/27-16:44:13.670 1c98 Creating DB C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\WebStorage\9\IndexedDB\indexeddb.leveldb since it was missing.
-2024/05/27-16:44:13.679 1c98 Reusing MANIFEST C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\WebStorage\9\IndexedDB\indexeddb.leveldb/MANIFEST-000001
-2024/05/27-17:21:53.772 15bc Level-0 table #5: started
-2024/05/27-17:21:53.777 15bc Level-0 table #5: 1849 bytes OK
-2024/05/27-17:21:53.779 15bc Delete type=0 #3
-2024/05/27-17:21:53.779 15bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

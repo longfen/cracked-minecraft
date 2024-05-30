@@ -1,8 +1,0 @@
-2024/05/28-17:35:39.233 30e4 Reusing MANIFEST C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/28-17:35:39.234 30e4 Recovering log #4
-2024/05/28-17:35:39.234 30e4 Reusing old log C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.office.com_0.indexeddb.leveldb/000004.log 
-2024/05/28-17:35:56.783 ea8 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/05/28-17:35:56.784 ea8 Level-0 table #8: started
-2024/05/28-17:35:56.791 ea8 Level-0 table #8: 637378 bytes OK
-2024/05/28-17:35:56.792 ea8 Delete type=0 #4
-2024/05/28-17:35:56.792 30e4 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,6 +1,0 @@
-2024/05/29-16:30:50.984 7920 Creating DB C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2024/05/29-16:30:50.996 7920 Reusing MANIFEST C:\Users\longf\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/29-16:31:22.994 4480 Level-0 table #5: started
-2024/05/29-16:31:22.999 4480 Level-0 table #5: 1421 bytes OK
-2024/05/29-16:31:23.000 4480 Delete type=0 #3
-2024/05/29-16:31:23.001 4480 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
