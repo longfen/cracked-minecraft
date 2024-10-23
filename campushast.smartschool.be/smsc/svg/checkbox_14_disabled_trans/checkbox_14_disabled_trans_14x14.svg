@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox_14_disabled_trans</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Action-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1169.000000, -120.000000)" id="checkbox_14_disabled_trans">
+            <g transform="translate(1169.000000, 120.000000)">
+                <rect id="BorderShape" fill="#DCDCDC" x="0" y="0" width="14" height="14" rx="2"></rect>
+                <path d="M5.05486259,8.36975862 L3.36212778,6.70179117 C2.96878398,6.31420261 2.336056,6.31385983 1.94280904,6.70710678 C1.55228475,7.09763107 1.54947716,7.72339745 1.94791421,8.11600474 L4.35776638,10.490597 C4.75111018,10.8781855 5.38383816,10.8785283 5.77708511,10.4852814 C5.80490278,10.4574637 5.83075319,10.4284524 5.85463146,10.3984169 L12.1348552,4.11819316 C12.5236524,3.72939597 12.5249749,3.10035374 12.131728,2.70710678 C11.7412037,2.31658249 11.110074,2.31454724 10.7206416,2.7039796 L5.05486259,8.36975862 L5.05486259,8.36975862 Z" id="Checkmark" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

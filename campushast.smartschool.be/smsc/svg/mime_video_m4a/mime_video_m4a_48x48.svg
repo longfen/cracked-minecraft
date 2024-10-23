@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>mime_video_m_48x48</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MimeType-icons---Converted-to-outlines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mime_video_m_48x48" transform="translate(5.000000, 2.000000)">
+            <g id="Label" transform="translate(5.000000, 0.000000)" fill-rule="nonzero">
+                <polygon id="Shape" fill="#231F20" opacity="0.4" points="34 44 0 44 0 0 23.5 0 34 10.5"></polygon>
+                <polygon id="Shape" fill="#FFFFFF" points="1 43 1 1 23 1 33 11 33 43"></polygon>
+                <path d="M13.6,32 C13.48,32 13.36,32 13.36,31.8763948 C13.12,31.8763948 13,31.6291845 13,31.3819742 L13,16.5493562 C13,16.3021459 13.12,16.0549356 13.36,16.0549356 C13.6,16.0549356 13.84,15.9313305 13.96,16.0549356 L24.76,23.4712446 C24.88,23.5948498 25,23.7184549 25,23.9656652 C25,24.2128755 24.88,24.3364807 24.76,24.4600858 L13.96,31.8763948 C13.84,32 13.72,32 13.6,32 Z" id="Shape" fill="#999999"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="24 10 24 2 24 2 32 10 32 10"></polygon>
+                <polygon id="Shape" fill="#231F20" opacity="0.4" points="24 10 24 2 23 1 23 11 33 11 32 10"></polygon>
+            </g>
+            <g id="Label" transform="translate(0.000000, 11.000000)">
+                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="6 2.7 6 28.3 19 30.2 19 0.8"></polygon>
+                <polygon id="Shape" fill="#EC0000" fill-rule="nonzero" points="18 2 18 29 0 26.4 0 4.6"></polygon>
+                <polygon id="M" fill="#FFFFFF" points="4.25 20 6.515 20 6.515 13.19 9.44 17.63 9.5 17.63 12.455 13.145 12.455 20 14.75 20 14.75 9.5 12.26 9.5 9.5 13.94 6.74 9.5 4.25 9.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

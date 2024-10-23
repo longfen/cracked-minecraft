@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>rss_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="2.15384615" cy="11.8461538" r="2.15384615"></circle>
+        <path d="M9.69230769,14 L7.53846154,14 C7.53846154,9.84253846 4.15692308,6.46153846 0,6.46153846 L0,4.30769231 C5.34476923,4.30769231 9.69230769,8.65523077 9.69230769,14 Z" id="path-2"></path>
+        <path d="M14,14 L11.8461538,14 C11.8461538,7.46792308 6.53207692,2.15384615 0,2.15384615 L0,0 C7.71938462,0 14,6.28061538 14,14 Z" id="path-3"></path>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rss_16x16" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <g id="Group">
+                <g id="rss_2_">
+                    <g id="Oval">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.25" cx="2.15384615" cy="11.8461538" r="2.02884615"></circle>
+                    </g>
+                    <g id="Shape">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.25" d="M9.56650387,13.875 L7.66245805,13.875 C7.59614998,9.74771287 4.25212688,6.40384942 0.125,6.33754198 L0.125,4.43349613 C5.30175015,4.50010755 9.49989245,8.69824985 9.56650387,13.875 Z"></path>
+                    </g>
+                    <g id="Shape">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <path stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.25" d="M13.8744457,13.875 L11.9705115,13.875 C11.9036599,7.37284607 6.62715393,2.09634012 0.125,2.0294885 L0.125,0.125554282 C7.67641317,0.192546059 13.8074539,6.32358683 13.8744457,13.875 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

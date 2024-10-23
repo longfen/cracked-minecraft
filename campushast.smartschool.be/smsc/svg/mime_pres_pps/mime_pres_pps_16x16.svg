@@ -1,0 +1,23 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_pres_pps/mime_pres_pps_16x16">
+<g id="16/baseshape">
+<g id="16/baseshape_2">
+<path id="OutsideBorder" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="Path" d="M6 11H13V12H6V11Z" fill="#F5BA9D"/>
+<path id="Path_2" d="M6 13H13V14H6V13Z" fill="#F5BA9D"/>
+<path id="Oval" d="M10 10C11.6569 10 13 8.65685 13 7C13 5.34315 11.6569 4 10 4C8.34315 4 7 5.34315 7 7C7 8.65685 8.34315 10 10 10Z" fill="#91A0AF"/>
+<path id="Combined Shape" d="M10 4C11.6569 4 13 5.34315 13 7H10V4Z" fill="#F5BA9D"/>
+</g>
+<g id="16/corner">
+<path id="InsideWhite" d="M12 4V0V0L16 4V4H12Z" fill="#D8E0E8"/>
+</g>
+<g id="16/chard/color/aqua">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4 2.66077V14.2205L8 15V2L4 2.66077Z" fill="#ECF0F4"/>
+<path id="Chard" d="M0 4L7 3V14L0 12.9V4Z" fill="#D04727"/>
+</g>
+<g id="16/chard/letter/a">
+<path id="P" fill-rule="evenodd" clip-rule="evenodd" d="M1.8335 10.5V5.83333H3.74016C4.8535 5.83333 5.52683 6.49333 5.52683 7.44667V7.46C5.52683 8.54 4.68683 9.1 3.64016 9.1H2.86016V10.5H1.8335ZM2.86016 8.18667H3.6735C4.18683 8.18667 4.48683 7.88 4.48683 7.48V7.46667C4.48683 7.00667 4.16683 6.76 3.6535 6.76H2.86016V8.18667Z" fill="white"/>
+</g>
+</g>
+</svg>

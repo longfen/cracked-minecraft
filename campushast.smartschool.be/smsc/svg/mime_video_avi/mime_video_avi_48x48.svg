@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_video_avi/mime_video_avi_48x48">
+<g id="48/baseshape">
+<g id="48/baseshape_2">
+<path id="OutsideBorder" d="M44 44C44 45.1046 43.1046 46 42 46H12C10.8954 46 10 45.1046 10 44V4C10 2.89543 10.8954 2 12 2H34L44 12V44Z" fill="#ECF0F4"/>
+</g>
+<path id="Shape" d="M23.7 37C23.56 37 23.42 37 23.42 36.8532C23.14 36.8532 23 36.5597 23 36.2661V18.6524C23 18.3588 23.14 18.0652 23.42 18.0652C23.7 18.0652 23.98 17.9185 24.12 18.0652L36.72 26.8721C36.86 27.0189 37 27.1657 37 27.4592C37 27.7528 36.86 27.8996 36.72 28.0464L24.12 36.8532C23.98 37 23.84 37 23.7 37Z" fill="#91A0AF"/>
+</g>
+<g id="48/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M34 2L44 12H34V2Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape_2" d="M14 12V42L24 44V10L14 12Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M22 12V42L2 39V15L22 12Z" fill="#EC0000"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="A" fill-rule="evenodd" clip-rule="evenodd" d="M4.58008 34L10.5801 19.9H13.4201L19.4201 34H16.2001L14.9201 30.86H9.00008L7.72008 34H4.58008ZM10.1001 28.14H13.8201L11.9601 23.6L10.1001 28.14Z" fill="white"/>
+</g>
+</g>
+</svg>

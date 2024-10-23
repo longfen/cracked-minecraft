@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>folder_add_24x24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1,18 L21,18 C21.6192308,18 22,17.634375 22,17 L22,4 L0,4 L0,17 C0,17.634375 0.380769231,18 1,18 Z" id="path-1"></path>
+        <path d="M21.0117188,3 L10,3 C8.05114746,3 7.62756348,0 6,0 L1,0 C0.363461538,0 0,0.385714286 0,1 L0,5 L22,5 L22,4.00805664 C22,3.57966384 21.5053711,3 21.0117188,3 Z" id="path-2"></path>
+        <path d="M7,4 L7,1 L4,1 L4,4 L1,4 L1,7 L4,7 L4,10 L7,10 L7,7 L10,7 L10,4 L7,4 Z" id="path-3"></path>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder_24-copy" transform="translate(1.000000, 3.000000)">
+            <g id="Fill-117-Copy-2">
+                <use fill="#FFD531" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke-opacity="0.2" stroke="#C5A113" stroke-width="0.5" d="M0.25,4.25 L21.75,4.25 L21.75,17 C21.75,17.4901989 21.4873178,17.75 21,17.75 L1,17.75 L1,17.75 C0.512682204,17.75 0.25,17.4901989 0.25,17 L0.25,4.25 Z"></path>
+            </g>
+            <g id="Fill-116-Copy-2">
+                <use fill="#EEC41D" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke-opacity="0.2" stroke="#B79616" stroke-width="0.5" d="M21.75,4.75 L0.25,4.75 L0.25,1 C0.25,0.514727272 0.510476101,0.25 1,0.25 L6,0.25 C6.50402709,0.25 6.87180757,0.558626488 7.48450734,1.38522255 C7.52675524,1.44221938 7.58058823,1.51545328 7.67829319,1.64835478 C8.52092095,2.79126662 9.07417227,3.25 10,3.25 L21.0117188,3.25 C21.3399553,3.25 21.75,3.68902618 21.75,4.00805664 L21.75,4.75 Z"></path>
+            </g>
+            <g id="Add-Sign-For-24-icons" transform="translate(13.000000, 11.000000)">
+                <polygon id="White-Mask" fill="#FFFFFF" points="0 3 3 3 3 0 8 0 8 3 9 3 9 7 0 7"></polygon>
+                <g id="add_sign_for_24-icons">
+                    <use fill="#57D31A" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke-opacity="0.2" stroke="#2C9517" stroke-width="0.5" d="M9.75,4.25 L9.75,6.75 L7,6.75 L6.75,6.75 L6.75,7 L6.75,9.75 L4.25,9.75 L4.25,7 L4.25,6.75 L4,6.75 L1.25,6.75 L1.25,4.25 L4,4.25 L4.25,4.25 L4.25,4 L4.25,1.25 L6.75,1.25 L6.75,4 L6.75,4.25 L7,4.25 L9.75,4.25 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

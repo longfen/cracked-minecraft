@@ -1,0 +1,21 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_pres_ppt/mime_pres_ppt_128x128">
+<g id="64/baseshape">
+<g id="64/baseshape_2">
+<path id="OutsideBorder" d="M116 120C116 122.209 114.209 124 112 124H30C27.7909 124 26 122.209 26 120V8C26 5.79086 27.7909 4 30 4H88L116 34V120Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M98 52C98 38.6667 87.3333 28 74 28V52H98ZM106 90H36V94H106V90ZM106 100H36V104H106V100ZM36 110H106V114H36V110Z" fill="#F5BA9D"/>
+<path id="Shape" d="M70 32C56.6667 32 46 42.6667 46 56C46 69.3333 56.6667 80 70 80C83.3333 80 94 69.3333 94 56H70V32Z" fill="#91A0AF"/>
+</g>
+<g id="64/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M88 34V4L116 34H88Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape_2" d="M28 38V112L64 118V32L28 38Z" fill="#ECF0F4"/>
+<path id="Chard" d="M60 36.8636V113.273L12 106V44L60 36.8636Z" fill="#D04727"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="P" fill-rule="evenodd" clip-rule="evenodd" d="M24 92V58.4H37.728C45.744 58.4 50.592 63.152 50.592 70.016V70.112C50.592 77.888 44.544 81.92 37.008 81.92H31.392V92H24ZM31.392 75.344H37.248C40.944 75.344 43.104 73.136 43.104 70.256V70.16C43.104 66.848 40.8 65.072 37.104 65.072H31.392V75.344Z" fill="white"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_notebook/mime_notebook_32x32">
+<g id="32/baseshape">
+<g id="32/baseshape_2">
+<path id="OutsideBorder" d="M29 30C29 30.5523 28.5523 31 28 31H7C6.44772 31 6 30.5523 6 30V2C6 1.44772 6.44772 1 7 1H22L29 9V30Z" fill="#ECF0F4"/>
+</g>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M23.8697 20.0437L14.8257 11L12 13.8259L21.0432 22.8696L24.4349 24L25 23.4356L23.8697 20.0437ZM24.0192 23.0199L21.4756 22.1718L21.044 21.7401L22.7402 20.0445L23.1711 20.4762L24.0192 23.0199Z" fill="#91A0AF"/>
+</g>
+<g id="32/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M22 1L29 9H22V1Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape_2" d="M7 9.5V28L16 29.5V8L7 9.5Z" fill="#ECF0F4"/>
+<path id="Chard" d="M15 9.2159V28.3182L3 26.5V11L15 9.2159Z" fill="#00B4E2"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="N" fill-rule="evenodd" clip-rule="evenodd" d="M5.26807 23V14.6H6.97207L10.9081 19.772V14.6H12.7321V23H11.1601L7.09207 17.66V23H5.26807Z" fill="white"/>
+</g>
+</g>
+</svg>

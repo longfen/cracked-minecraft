@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_text_dot/mime_text_dot_32x32">
+<g id="32/baseshape">
+<g id="32/baseshape_2">
+<path id="OutsideBorder" d="M29 30C29 30.5523 28.5523 31 28 31H7C6.44772 31 6 30.5523 6 30V2C6 1.44772 6.44772 1 7 1H22L29 9V30Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M22 5H9V6H22V5ZM26 8H9V9H26V8ZM9 11H26V12H9V11ZM26 14H9V15H26V14ZM9 17H26V18H9V17ZM26 20H9V21H26V20ZM9 23H26V24H9V23ZM26 26H9V27H26V26Z" fill="#91A0AF"/>
+</g>
+<g id="32/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M22 1L29 9H22V1Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M7 9.5V28L16 29.5V8L7 9.5Z" fill="#ECF0F4"/>
+<path id="Chard" d="M15 9.2159V28.3182L3 26.5V11L15 9.2159Z" fill="#2B579A"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="W" fill-rule="evenodd" clip-rule="evenodd" d="M5.8019 23.06L3.51562 14.6H5.49563L6.6539 20.288L8.23163 14.576H9.81563L11.4169 20.288L12.5729 14.6H14.5049L12.2209 23.06H10.6129L8.99963 17.564L7.4099 23.06H5.8019Z" fill="white"/>
+</g>
+</g>
+</svg>

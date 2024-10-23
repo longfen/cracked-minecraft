@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="n/note_corner/note_corner_24x24">
+<path id="Bottom" fill-rule="evenodd" clip-rule="evenodd" d="M0 3H24V19L20 23H1C0.447715 23 0 22.5523 0 22V3Z" fill="#FEE996"/>
+<path id="Text" fill-rule="evenodd" clip-rule="evenodd" d="M4.5 8H19.5C19.7761 8 20 8.22386 20 8.5C20 8.77614 19.7761 9 19.5 9H4.5C4.22386 9 4 8.77614 4 8.5C4 8.22386 4.22386 8 4.5 8ZM4.5 12H19.5C19.7761 12 20 12.2239 20 12.5C20 12.7761 19.7761 13 19.5 13H4.5C4.22386 13 4 12.7761 4 12.5C4 12.2239 4.22386 12 4.5 12ZM11.5 16H4.5C4.22386 16 4 16.2239 4 16.5C4 16.7761 4.22386 17 4.5 17H11.5C11.7761 17 12 16.7761 12 16.5C12 16.2239 11.7761 16 11.5 16Z" fill="#1A96F1"/>
+<path id="Corner" fill-rule="evenodd" clip-rule="evenodd" d="M20 19H24L20 23V19Z" fill="#EEC31D"/>
+<path id="Top" fill-rule="evenodd" clip-rule="evenodd" d="M1 1H23C23.5523 1 24 1.44772 24 2V4H0V2C0 1.44772 0.447715 1 1 1Z" fill="#EEC31D"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox_14_14x14</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Action-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-870.000000, -120.000000)" id="checkbox_14_selected_14x14-copy-2">
+            <g transform="translate(870.000000, 120.000000)">
+                <rect id="BorderShape" fill="#565656" x="0" y="0" width="14" height="14" rx="2"></rect>
+                <rect id="InnerShape" fill="#F2F2F2" x="1" y="1" width="12" height="12" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

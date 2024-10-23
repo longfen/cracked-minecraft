@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="p/planner/planner_24x24">
+<path id="Bottom" fill-rule="evenodd" clip-rule="evenodd" d="M0 4V21C0 22.1046 0.89543 23 2 23H22C23.1046 23 24 22.1046 24 21V4H0Z" fill="#DDDDEA"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M16 7H13V11H16V7ZM16 18H13V21H16V18Z" fill="#FFCC00"/>
+<path id="Combined Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M11 7H8V11H11V7ZM11 12H8V21H11V12Z" fill="#84BA19"/>
+<path id="Combined Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M6 7H3V17H6V7ZM6 18H3V21H6V18Z" fill="#1A96F1"/>
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M18 7H21V21H18V7Z" fill="#FF520E"/>
+<path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M13 12H16V17H13V12Z" fill="#E62200"/>
+<path id="Top" fill-rule="evenodd" clip-rule="evenodd" d="M1.50131 2C0.672158 2 0 2.6658 0 3.5V5H24V3.5C24 2.67157 23.3331 2 22.4987 2H1.50131Z" fill="#FF520E"/>
+<path id="Combined Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M2 3.5C2 3.23193 2.22386 3 2.5 3C2.76807 3 3 3.22386 3 3.5C3 3.76807 2.77614 4 2.5 4C2.23193 4 2 3.77614 2 3.5ZM21 3.5C21 3.23193 21.2239 3 21.5 3C21.7681 3 22 3.22386 22 3.5C22 3.76807 21.7761 4 21.5 4C21.2319 4 21 3.77614 21 3.5Z" fill="white"/>
+</g>
+</svg>

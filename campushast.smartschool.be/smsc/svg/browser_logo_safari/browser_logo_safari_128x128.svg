@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>browser_logo_safari_128x128</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="44.02771%" fx="50%" fy="44.02771%" r="61.1175537%" id="radialGradient-1">
+            <stop stop-color="#00D8FF" offset="0%"></stop>
+            <stop stop-color="#00AAFF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="browser_logo_safari_128x128">
+            <rect id="Rectangle-path" x="0" y="0" width="128" height="128"></rect>
+            <g id="Safari_1_">
+                <circle id="Oval" fill="url(#radialGradient-1)" cx="64" cy="64" r="64"></circle>
+                <polygon id="Shape" fill="#FFFFFF" points="23.742 104.258 69.845 69.845 58.155 58.155"></polygon>
+                <polygon id="Shape" fill="#EE0000" points="104.258 23.742 58.155 58.155 64 64 64 64 69.845 69.845"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

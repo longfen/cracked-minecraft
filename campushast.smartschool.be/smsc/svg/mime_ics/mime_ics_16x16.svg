@@ -1,0 +1,20 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_ics/mime_ics_16x16">
+<g id="16/baseshape">
+<g id="16/baseshape_2">
+<path id="OutsideBorder" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M7.4 6H7.75V7.05H7.4V6ZM11.95 6.7H12.475C12.767 6.7 13 6.93505 13 7.225V7.75H6V7.225C6 6.93303 6.23505 6.7 6.525 6.7H7.05V7.4H8.1V6.7H10.9V7.4H11.95V6.7ZM11.6 6H11.25V7.05H11.6V6ZM6 8.1H13V12.2979C13 12.686 12.688 13 12.3032 13H6.69678C6.31437 13 6 12.6857 6 12.2979V8.1ZM7.75 11.25V11.95H7.05V11.25H7.75ZM7.75 10.9V10.2H7.05V10.9H7.75ZM7.75 9.15V9.85H7.05V9.15H7.75ZM8.8 11.95V11.25H8.1V11.95H8.8ZM8.8 10.2V10.9H8.1V10.2H8.8ZM8.8 9.85V9.15H8.1V9.85H8.8ZM9.85 11.25V11.95H9.15V11.25H9.85ZM9.85 10.9V10.2H9.15V10.9H9.85ZM9.85 9.15V9.85H9.15V9.15H9.85ZM10.9 11.95V11.25H10.2V11.95H10.9ZM10.9 10.2V10.9H10.2V10.2H10.9ZM10.9 9.85V9.15H10.2V9.85H10.9ZM11.95 11.25V11.95H11.25V11.25H11.95ZM11.95 10.9V10.2H11.25V10.9H11.95ZM11.95 9.15V9.85H11.25V9.15H11.95Z" fill="#91A0AF"/>
+</g>
+<g id="16/corner">
+<path id="InsideWhite" d="M12 4V0V0L16 4V4H12Z" fill="#D8E0E8"/>
+</g>
+<g id="16/chard/color/aqua">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4 2.66077V14.2205L8 15V2L4 2.66077Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M0 4L7 3V14L0 12.9V4Z" fill="#EC0000"/>
+</g>
+<g id="16/chard/letter/a">
+<path id="I" fill-rule="evenodd" clip-rule="evenodd" d="M2.98682 10.5V5.83333H4.01348V10.5H2.98682Z" fill="white"/>
+</g>
+</g>
+</svg>

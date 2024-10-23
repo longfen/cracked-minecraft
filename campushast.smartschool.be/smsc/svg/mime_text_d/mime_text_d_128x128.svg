@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_text_d/mime_text_d_128x128">
+<g id="64/baseshape">
+<g id="64/baseshape_2">
+<path id="OutsideBorder" d="M116 120C116 122.209 114.209 124 112 124H30C27.7909 124 26 122.209 26 120V8C26 5.79086 27.7909 4 30 4H88L116 34V120Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M87.4706 20H36V24H87.4706V20ZM106 32H36V36H106V32ZM36 44H106V48H36V44ZM106 56H36V60H106V56ZM36 68H106V72H36V68ZM106 80H36V84H106V80ZM36 94H106V98H36V94ZM106 106H36V110H106V106Z" fill="#91A0AF"/>
+</g>
+<g id="64/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M88 34V4L116 34H88Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M28 38V112L64 118V32L28 38Z" fill="#ECF0F4"/>
+<path id="Chard" d="M60 36.8636V113.273L12 106V44L60 36.8636Z" fill="#2B579A"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="W" fill-rule="evenodd" clip-rule="evenodd" d="M23.2096 92.24L14.0645 58.4H21.9845L26.6176 81.152L32.9285 58.304H39.2645L45.6697 81.152L50.2935 58.4H58.0215L48.8857 92.24H42.4537L36.0005 70.256L29.6416 92.24H23.2096Z" fill="white"/>
+</g>
+</g>
+</svg>

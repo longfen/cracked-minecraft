@@ -1,0 +1,33 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_calc/mime_calc_64x64">
+<g id="64/baseshape">
+<g id="64/baseshape_2">
+<path id="OutsideBorder" d="M58 60C58 61.1046 57.1046 62 56 62H15C13.8954 62 13 61.1046 13 60V4C13 2.89543 13.8954 2 15 2H44L58 17V60Z" fill="#ECF0F4"/>
+</g>
+<g id="Group">
+<path id="Rectangle-path" fill-rule="evenodd" clip-rule="evenodd" d="M31 49H41V57H31V49Z" fill="#86BFA0"/>
+<path id="Rectangle-path_2" fill-rule="evenodd" clip-rule="evenodd" d="M43 49H53V57H43V49Z" fill="#86BFA0"/>
+<rect id="Rectangle-path_3" x="31" y="39" width="10" height="8" fill="#86BFA0"/>
+<rect id="Rectangle-path_4" x="43" y="39" width="10" height="8" fill="#86BFA0"/>
+<rect id="Rectangle-path_5" x="31" y="29" width="10" height="8" fill="#86BFA0"/>
+<rect id="Rectangle-path_6" x="43" y="29" width="10" height="8" fill="#86BFA0"/>
+<path id="Rectangle-path_7" fill-rule="evenodd" clip-rule="evenodd" d="M31 19H41V27H31V19Z" fill="#86BFA0"/>
+<path id="Rectangle-path_8" fill-rule="evenodd" clip-rule="evenodd" d="M43 19H53V27H43V19Z" fill="#86BFA0"/>
+<path id="Rectangle-path_9" fill-rule="evenodd" clip-rule="evenodd" d="M18 19H29V27H18V19Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_10" x="31" y="9" width="10" height="8" fill="#91A0AF"/>
+<path id="Rectangle-path_11" fill-rule="evenodd" clip-rule="evenodd" d="M43 9H45.5L53 17H43V9Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_12" x="18" y="9" width="11" height="8" fill="#91A0AF"/>
+</g>
+</g>
+<g id="64/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M44 17V2L58 17H44Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M14 19V56L32 59V16L14 19Z" fill="#ECF0F4"/>
+<path id="Chard" d="M30 18.4318V56.6364L6 53V22L30 18.4318Z" fill="#207347"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="C" fill-rule="evenodd" clip-rule="evenodd" d="M19.032 46.288C14.088 46.288 10.416 42.472 10.416 37.648V37.6C10.416 32.824 14.016 28.912 19.176 28.912C22.344 28.912 24.24 29.968 25.8 31.504L23.448 34.216C22.152 33.04 20.832 32.32 19.152 32.32C16.32 32.32 14.28 34.672 14.28 37.552V37.6C14.28 40.48 16.272 42.88 19.152 42.88C21.072 42.88 22.248 42.112 23.568 40.912L25.92 43.288C24.192 45.136 22.272 46.288 19.032 46.288Z" fill="white"/>
+</g>
+</g>
+</svg>

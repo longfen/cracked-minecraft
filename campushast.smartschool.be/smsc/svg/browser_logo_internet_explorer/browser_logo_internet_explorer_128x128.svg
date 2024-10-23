@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="126px" viewBox="0 0 128 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>browser_logo_internet_explorer_128x128</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="browser_logo_internet_explorer_128x128" transform="translate(0.000000, -1.000000)">
+            <rect id="Rectangle-path" x="0" y="0" width="128" height="128"></rect>
+            <path d="M70.699,35.433 C84.785,35.433 94.176,46.426 94.526,57.332 L46.581,57.332 C47.048,48.051 55.651,35.433 70.699,35.433 Z M70.699,98.55 C56.612,98.55 46.58,86.338 46.231,73.924 L127.89,73.924 C129.137,47.189 119.89,28.228 96.203,15.002 C99.664,11.216 128.015,1.254 120.759,28.331 L123.545,32.359 C135.844,-4.899 98.905,-2.873 74.462,8.951 C39.231,8.835 19.283,30.88 13.801,53.504 C23.325,39.904 35.636,31.844 43.664,29.603 C-2.285,66.356 -23.636,147.416 38.765,121.726 L34.434,119.13 C-3.118,130.909 11.391,97.619 18.618,92.818 C27.269,110.417 45.701,124.482 68.249,124.482 C96.946,124.482 118.265,109.743 126.723,85.295 L93.593,85.295 C88.81,93.769 82.161,98.55 70.699,98.55 Z" id="Internet_Explorer" fill="#00BBF5"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_notebook/mime_notebook_48x48">
+<g id="48/baseshape">
+<g id="48/baseshape_2">
+<path id="OutsideBorder" d="M44 44C44 45.1046 43.1046 46 42 46H12C10.8954 46 10 45.1046 10 44V4C10 2.89543 10.8954 2 12 2H34L44 12V44Z" fill="#ECF0F4"/>
+</g>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M36.2611 30.9134L22.3473 17L18 21.3476L31.9126 35.261L37.1305 37L38 36.1317L36.2611 30.9134ZM36.4911 35.4922L32.5779 34.1873L31.9138 33.5232L34.5234 30.9146L35.1863 31.5788L36.4911 35.4922Z" fill="#91A0AF"/>
+</g>
+<g id="48/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M34 2L44 12H34V2Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape_2" d="M14 12V42L24 44V10L14 12Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M22 12V42L2 39V15L22 12Z" fill="#00B4E2"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="N" fill-rule="evenodd" clip-rule="evenodd" d="M5.77979 34V20H8.61979L15.1798 28.62V20H18.2198V34H15.5998L8.81979 25.1V34H5.77979Z" fill="white"/>
+</g>
+</g>
+</svg>

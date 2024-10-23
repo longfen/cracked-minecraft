@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>browser_logo_chrome_128x128</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="browser_logo_chrome_128x128">
+            <rect id="Rectangle-path" x="0" y="0" width="128" height="128"></rect>
+            <g id="Google_Chrome_1_">
+                <path d="M15.454,22.297 C45.206,-12.329 100.371,-5.494 120.994,34.953 C106.477,34.958 83.744,34.949 71.432,34.953 C62.502,34.956 56.737,34.753 50.493,38.04 C43.153,41.904 37.614,49.066 35.681,57.479 L15.454,22.297 Z" id="Shape" fill="#EA4335"></path>
+                <path d="M42.708,63.998 C42.708,75.733 52.25,85.281 63.979,85.281 C75.707,85.281 85.249,75.734 85.249,63.998 C85.249,52.263 75.707,42.715 63.979,42.715 C52.25,42.715 42.708,52.263 42.708,63.998 Z" id="Shape" fill="#4285F4"></path>
+                <path d="M72.234,91.855 C60.295,95.403 46.324,91.468 38.671,78.258 C32.829,68.175 17.394,41.286 10.379,29.06 C-14.191,66.719 6.985,118.038 51.591,126.797 L72.234,91.855 Z" id="Shape" fill="#34A853"></path>
+                <path d="M83.737,42.715 C93.681,51.963 95.847,66.939 89.111,78.551 C84.036,87.3 67.84,114.636 59.99,127.873 C105.948,130.706 139.451,85.664 124.318,42.715 L83.737,42.715 Z" id="Shape" fill="#FBBC05"></path>
+            </g>
+        </g>
+    </g>
+</svg>

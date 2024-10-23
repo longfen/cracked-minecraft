@@ -1,0 +1,20 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_sound_mp3/mime_sound_mp3_16x16">
+<g id="16/baseshape">
+<g id="16/baseshape_2">
+<path id="OutsideBorder" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="music_note" fill-rule="evenodd" clip-rule="evenodd" d="M10 11C10.3643 11 10.7058 11.073 11 11.2007V7H12H13V8H12V12.5C12 13.3284 11.1046 14 10 14C8.89543 14 8 13.3284 8 12.5C8 11.6716 8.89543 11 10 11Z" fill="#91A0AF"/>
+</g>
+<g id="16/corner">
+<path id="InsideWhite" d="M12 4V0V0L16 4V4H12Z" fill="#D8E0E8"/>
+</g>
+<g id="16/chard/color/aqua">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4 2.66077V14.2205L8 15V2L4 2.66077Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M0 4L7 3V14L0 12.9V4Z" fill="#00B4E2"/>
+</g>
+<g id="16/chard/letter/a">
+<path id="M" fill-rule="evenodd" clip-rule="evenodd" d="M1.1665 10.5V5.83333H2.27317L3.49984 7.80667L4.7265 5.83333H5.83317V10.5H4.81317V7.45333L3.49984 9.44667H3.47317L2.17317 7.47333V10.5H1.1665Z" fill="white"/>
+</g>
+</g>
+</svg>

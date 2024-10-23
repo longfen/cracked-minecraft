@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>schoolbord_sgm_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Geel" fill="#E4B92D" x="0" y="1" width="16" height="13" rx="2"></rect>
+        <rect id="Groen" fill="#149600" x="1" y="2" width="14" height="11" rx="1"></rect>
+        <path d="M8.0242513,4.33333333 L11,7.70740491 L11,11 L5,11 L5,7.71557578 L8.0242513,4.33333333 Z M7,9 L7,11 L9,11 L9,9 L7,9 Z" id="Huis" fill="#FFFFFF"></path>
+        <rect id="Rectangle-670" fill="#000000" opacity="0.390216884" transform="translate(12.333333, 13.666667) rotate(-345.000000) translate(-12.333333, -13.666667) " x="10" y="13" width="4.66666667" height="1.33333333"></rect>
+        <rect id="Rectangle-670" fill="#FFFFFF" transform="translate(12.333333, 13.000000) rotate(-345.000000) translate(-12.333333, -13.000000) " x="10" y="12.3333333" width="4.66666667" height="1.33333333"></rect>
+    </g>
+</svg>

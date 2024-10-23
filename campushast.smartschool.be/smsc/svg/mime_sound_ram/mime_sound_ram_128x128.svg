@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_sound_ram/mime_sound_ram_128x128">
+<g id="64/baseshape">
+<g id="64/baseshape_2">
+<path id="OutsideBorder" d="M116 120C116 122.209 114.209 124 112 124H30C27.7909 124 26 122.209 26 120V8C26 5.79086 27.7909 4 30 4H88L116 34V120Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M108 56C108 40.5517 90.5985 40.019 89.9984 40.0007L89.9826 40.0001L90 40H86V96C84.712 94.9365 81.8693 93.8462 78 94C72.776 93.8462 68 97.4619 68 102C68 106.384 72.776 110 78 110C84.5573 110 89.3333 106.384 90 102V48C101.517 48.0699 106.972 54.7538 107.867 55.8507C107.956 55.9601 108 56.014 108 56ZM78 56H28V60H78V56ZM28 68H78V72H28V68ZM78 80H28V84H78V80Z" fill="#91A0AF"/>
+</g>
+<g id="64/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M88 34V4L116 34H88Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M28 38V112L64 118V32L28 38Z" fill="#ECF0F4"/>
+<path id="Chard" d="M60 36.8636V113.273L12 106V44L60 36.8636Z" fill="#00B4E2"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="R" fill-rule="evenodd" clip-rule="evenodd" d="M22.6802 92V58.4H38.0402C42.3122 58.4 45.6242 59.6 47.8322 61.808C49.7042 63.68 50.7122 66.32 50.7122 69.488V69.584C50.7122 75.008 47.7842 78.416 43.5122 80L51.7202 92H43.0802L35.8802 81.248H30.0722V92H22.6802ZM30.0722 74.72H37.5602C41.1602 74.72 43.2242 72.8 43.2242 69.968V69.872C43.2242 66.704 41.0162 65.072 37.4162 65.072H30.0722V74.72Z" fill="white"/>
+</g>
+</g>
+</svg>

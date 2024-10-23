@@ -1,0 +1,27 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_data_mdb/mime_data_mdb_32x32">
+<g id="32/baseshape">
+<g id="32/baseshape_2">
+<path id="OutsideBorder" d="M29 30C29 30.5523 28.5523 31 28 31H7C6.44772 31 6 30.5523 6 30V2C6 1.44772 6.44772 1 7 1H22L29 9V30Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" d="M10 25V19H25V25C24.4801 26.6961 21.2784 28 17.5 28C13.7216 28 10.5199 26.6961 10 25Z" fill="#91A0AF"/>
+<path id="Path" d="M11.032 24.7069C11.3901 25.875 14.1478 27 17.5 27C20.8522 27 23.6099 25.875 23.968 24.7069L24 24.6024V20H11V24.6024L11.032 24.7069Z" fill="#ECF0F4"/>
+<path id="Combined Shape_2" d="M10.076 21H10V15H25V21H24.924C24.4042 22.6961 21.2784 24 17.5 24C13.7216 24 10.5958 22.6961 10.076 21Z" fill="#91A0AF"/>
+<path id="Path_2" d="M11.032 20.7069C11.3901 21.875 14.1478 23 17.5 23C20.8522 23 23.6099 21.875 23.968 20.7069L24 20.6024V16H11V20.6024L11.032 20.7069Z" fill="#ECF0F4"/>
+<path id="Combined Shape_3" d="M10.076 17H10V12.5H25V17H24.924C24.4042 18.6961 21.2784 20 17.5 20C13.7216 20 10.5958 18.6961 10.076 17Z" fill="#91A0AF"/>
+<path id="Path_3" d="M11.032 16.7069C11.3901 17.875 14.1478 19 17.5 19C20.8522 19 23.6099 17.875 23.968 16.7069L24 16.6024V13H11V16.6024L11.032 16.7069Z" fill="#ECF0F4"/>
+<path id="Oval" d="M17.5 16C13.3579 16 10 14.433 10 12.5C10 10.567 13.3579 9 17.5 9C21.6421 9 25 10.567 25 12.5C25 14.433 21.6421 16 17.5 16Z" fill="#91A0AF"/>
+<path id="Path_4" d="M17.5 15C21.1559 15 24 13.6727 24 12.5C24 11.3273 21.1559 10 17.5 10C13.8441 10 11 11.3273 11 12.5C11 13.6727 13.8441 15 17.5 15Z" fill="#ECF0F4"/>
+</g>
+<g id="32/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M22 1L29 9H22V1Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M7 9.5V28L16 29.5V8L7 9.5Z" fill="#ECF0F4"/>
+<path id="Chard" d="M15 9.2159V28.3182L3 26.5V11L15 9.2159Z" fill="#951B81"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="M" fill-rule="evenodd" clip-rule="evenodd" d="M4.80005 23V14.6H6.79205L9.00005 18.152L11.208 14.6H13.2V23H11.364V17.516L9.00005 21.104H8.95205L6.61205 17.552V23H4.80005Z" fill="white"/>
+</g>
+</g>
+</svg>

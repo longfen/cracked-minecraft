@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_ics/mime_ics_24x24">
+<g id="24/baseshape">
+<g id="24/baseshape_2">
+<path id="OutsideBorder" fill-rule="evenodd" clip-rule="evenodd" d="M24 22.4998C24 22.776 23.7724 23 23.4998 23H6.50021C6.22395 23 6 22.7823 6 22.4992V1.50084C6 1.22423 6.21991 1 6.49827 1H20L24 5V22.4998Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M12 9H12.5V10.5H12V9ZM18.5 10H19.25C19.6671 10 20 10.3358 20 10.75V11.5H10V10.75C10 10.3329 10.3358 10 10.75 10H11.5V11H13V10H17V11H18.5V10ZM18 9H17.5V10.5H18V9ZM10 12H20V17.9971C20 18.5515 19.5543 19 19.0046 19H10.9954C10.4491 19 10 18.551 10 17.9971V12ZM12.5 16.5V17.5H11.5V16.5H12.5ZM12.5 16V15H11.5V16H12.5ZM12.5 13.5V14.5H11.5V13.5H12.5ZM14 17.5V16.5H13V17.5H14ZM14 15V16H13V15H14ZM14 14.5V13.5H13V14.5H14ZM15.5 16.5V17.5H14.5V16.5H15.5ZM15.5 16V15H14.5V16H15.5ZM15.5 13.5V14.5H14.5V13.5H15.5ZM17 17.5V16.5H16V17.5H17ZM17 15V16H16V15H17ZM17 14.5V13.5H16V14.5H17ZM18.5 16.5V17.5H17.5V16.5H18.5ZM18.5 16V15H17.5V16H18.5ZM18.5 13.5V14.5H17.5V13.5H18.5Z" fill="#91A0AF"/>
+</g>
+<g id="24/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M20 1L24 5H20V1Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape" d="M7 6V21L12 22V5L7 6Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M11 6V21L1 19.5V7.5L11 6Z" fill="#EC0000"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="I" fill-rule="evenodd" clip-rule="evenodd" d="M5.22998 17V10H6.76998V17H5.22998Z" fill="white"/>
+</g>
+</g>
+</svg>

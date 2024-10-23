@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_zip_zip/mime_zip_zip_24x24">
+<g id="24/baseshape">
+<g id="24/baseshape_2">
+<path id="OutsideBorder" fill-rule="evenodd" clip-rule="evenodd" d="M24 22.4998C24 22.776 23.7724 23 23.4998 23H6.50021C6.22395 23 6 22.7823 6 22.4992V1.50084C6 1.22423 6.21991 1 6.49827 1H20L24 5V22.4998Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M15 2H17V4H15V2ZM13 4H15V6H13V4ZM15 6H17V8H15V6ZM13 8H15V10H13V8ZM15 10H17V12H15V10ZM13 12H15V14H13V12ZM13 15.9908C13 15.4436 13.4434 15 14.0094 15H15.9906C16.5481 15 17 15.451 17 15.9908V20.0092C17 20.5564 16.5566 21 15.9906 21H14.0094C13.4519 21 13 20.549 13 20.0092V15.9908ZM14 16.4905V19.5095C14 19.7849 14.226 20 14.5047 20H15.4953C15.786 20 16 19.7804 16 19.5095V16.4905C16 16.2151 15.774 16 15.4953 16H14.5047C14.214 16 14 16.2196 14 16.4905Z" fill="#91A0AF"/>
+</g>
+<g id="24/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M20 1L24 5H20V1Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape" d="M7 6V21L12 22V5L7 6Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M11 6V21L1 19.5V7.5L11 6Z" fill="#F3AC00"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="Z" fill-rule="evenodd" clip-rule="evenodd" d="M3.08984 17V15.83L6.93984 11.35H3.20984V10H8.91984V11.17L5.06984 15.65H8.91984V17H3.08984Z" fill="white"/>
+</g>
+</g>
+</svg>

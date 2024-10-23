@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle_rainbow_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="triangle_rainbow_16x16">
+            <path d="M2.071,11.985 L13.936,11.999 L15.281,14.401 C15.453,14.728 15.299,14.994 14.924,14.994 L1.047,14.994 C0.678,14.994 0.519,14.726 0.69,14.401 L2.071,11.985 L2.071,11.985 Z" id="Shape" fill="#1A96F1"></path>
+            <polygon id="Shape" fill="#57D31A" points="3.47 9.315 12.535 9.325 13.936 11.999 2.071 11.985 3.47 9.315"></polygon>
+            <polygon id="Yellow" fill="#FFCC00" points="12.535 9.325 3.47 9.315 4.861 6.659 11.142 6.665"></polygon>
+            <polygon id="Orange" fill="#FF7000" points="9.742 3.992 11.142 6.665 4.861 6.659 6.258 3.992"></polygon>
+            <polygon id="Red" fill="#FF0000" points="8 0.667 9.745 3.999 6.26 3.989 8 0.667"></polygon>
+        </g>
+    </g>
+</svg>

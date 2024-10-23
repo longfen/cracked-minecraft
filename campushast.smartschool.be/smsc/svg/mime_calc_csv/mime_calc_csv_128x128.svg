@@ -1,0 +1,33 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_calc_csv/mime_calc_csv_128x128">
+<g id="64/baseshape">
+<g id="64/baseshape_2">
+<path id="OutsideBorder" d="M116 120C116 122.209 114.209 124 112 124H30C27.7909 124 26 122.209 26 120V8C26 5.79086 27.7909 4 30 4H88L116 34V120Z" fill="#ECF0F4"/>
+</g>
+<g id="Group">
+<path id="Rectangle-path" fill-rule="evenodd" clip-rule="evenodd" d="M62 98H82V114H62V98Z" fill="#86BFA0"/>
+<path id="Rectangle-path_2" fill-rule="evenodd" clip-rule="evenodd" d="M86 98H106V114H86V98Z" fill="#86BFA0"/>
+<rect id="Rectangle-path_3" x="62" y="78" width="20" height="16" fill="#86BFA0"/>
+<rect id="Rectangle-path_4" x="86" y="78" width="20" height="16" fill="#86BFA0"/>
+<rect id="Rectangle-path_5" x="62" y="58" width="20" height="16" fill="#86BFA0"/>
+<rect id="Rectangle-path_6" x="86" y="58" width="20" height="16" fill="#86BFA0"/>
+<path id="Rectangle-path_7" fill-rule="evenodd" clip-rule="evenodd" d="M62 38H82V54H62V38Z" fill="#86BFA0"/>
+<path id="Rectangle-path_8" fill-rule="evenodd" clip-rule="evenodd" d="M86 38H106V54H86V38Z" fill="#86BFA0"/>
+<path id="Rectangle-path_9" fill-rule="evenodd" clip-rule="evenodd" d="M36 38H58V54H36V38Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_10" x="62" y="18" width="20" height="16" fill="#91A0AF"/>
+<path id="Rectangle-path_11" fill-rule="evenodd" clip-rule="evenodd" d="M86 18H91L106 34H86V18Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_12" x="36" y="18" width="22" height="16" fill="#91A0AF"/>
+</g>
+</g>
+<g id="64/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M88 34V4L116 34H88Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M28 38V112L64 118V32L28 38Z" fill="#ECF0F4"/>
+<path id="Chard" d="M60 36.8636V113.273L12 106V44L60 36.8636Z" fill="#207347"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="C" fill-rule="evenodd" clip-rule="evenodd" d="M38.064 92.576C28.176 92.576 20.832 84.944 20.832 75.296V75.2C20.832 65.648 28.032 57.824 38.352 57.824C44.688 57.824 48.48 59.936 51.6 63.008L46.896 68.432C44.304 66.08 41.664 64.64 38.304 64.64C32.64 64.64 28.56 69.344 28.56 75.104V75.2C28.56 80.96 32.544 85.76 38.304 85.76C42.144 85.76 44.496 84.224 47.136 81.824L51.84 86.576C48.384 90.272 44.544 92.576 38.064 92.576Z" fill="white"/>
+</g>
+</g>
+</svg>

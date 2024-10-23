@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>folder_add_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,12 L13.5,12 C13.775,12 14,11.775 14,11.5 L14,3 L0,3 L0,11.5 C0,11.775 0.225,12 0.5,12 Z" id="path-1"></path>
+        <path d="M13.3882068,2 L6.19047619,2 C4.98404367,2 4.72182501,0 3.71428571,0 L0.619047619,0 C0.225,0 0,0.257142857 0,0.666666667 L0,4 L14,4 L14,2.67203776 C14,2.38644256 13.6938012,2 13.3882068,2 Z" id="path-2"></path>
+        <polygon id="path-3" points="5 3 5 1 3 1 3 3 1 3 1 5 3 5 3 7 5 7 5 5 7 5 7 3"></polygon>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder_16x16-copy-9" transform="translate(1.000000, 2.000000)">
+            <g id="Fill-117">
+                <use fill="#FFD531" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke-opacity="0.2" stroke="#C5A113" stroke-width="0.25" d="M0.125,3.125 L13.875,3.125 L13.875,11.5 C13.875,11.7059644 13.7059644,11.875 13.5,11.875 L0.5,11.875 C0.294035594,11.875 0.125,11.7059644 0.125,11.5 L0.125,3.125 Z"></path>
+            </g>
+            <g id="Fill-116">
+                <use fill="#EEC41D" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke-opacity="0.2" stroke="#B79616" stroke-width="0.25" d="M13.875,3.875 L0.125,3.875 L0.125,0.666666667 C0.125,0.318345002 0.301651555,0.125 0.619047619,0.125 L3.71428571,0.125 C4.03615043,0.125 4.27008786,0.336411648 4.65462986,0.895105742 C4.71422042,0.98208953 4.71422042,0.98208953 4.77465142,1.07061301 C5.29105195,1.82492035 5.62710975,2.125 6.19047619,2.125 L13.3882068,2.125 C13.6060201,2.125 13.875,2.43514426 13.875,2.67203776 L13.875,3.875 Z"></path>
+            </g>
+        </g>
+        <g id="Add-Sign-For-#6-icons-Copy" transform="translate(9.000000, 9.000000)">
+            <polygon id="White-Mask" fill="#FFFFFF" points="0.5 2.5 2.5 2.5 2.5 0.5 5.5 0.5 5.5 2.5 6 2.5 6 5 0.5 5"></polygon>
+            <g id="add_sign_for_16-icons">
+                <use fill="#57D31A" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke-opacity="0.2" stroke="#2C9517" stroke-width="0.5" d="M6.75,3.25 L6.75,4.75 L5,4.75 L4.75,4.75 L4.75,5 L4.75,6.75 L3.25,6.75 L3.25,5 L3.25,4.75 L3,4.75 L1.25,4.75 L1.25,3.25 L3,3.25 L3.25,3.25 L3.25,3 L3.25,1.25 L4.75,1.25 L4.75,3 L4.75,3.25 L5,3.25 L6.75,3.25 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

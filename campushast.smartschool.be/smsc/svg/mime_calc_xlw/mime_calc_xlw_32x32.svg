@@ -1,0 +1,33 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_calc_xlw/mime_calc_xlw_32x32">
+<g id="32/baseshape">
+<g id="32/baseshape_2">
+<path id="OutsideBorder" d="M29 30C29 30.5523 28.5523 31 28 31H7C6.44772 31 6 30.5523 6 30V2C6 1.44772 6.44772 1 7 1H22L29 9V30Z" fill="#ECF0F4"/>
+</g>
+<g id="Group">
+<path id="Rectangle-path" fill-rule="evenodd" clip-rule="evenodd" d="M15 24H20V28H15V24Z" fill="#86BFA0"/>
+<path id="Rectangle-path_2" fill-rule="evenodd" clip-rule="evenodd" d="M21 24H26V28H21V24Z" fill="#86BFA0"/>
+<rect id="Rectangle-path_3" x="15" y="19" width="5" height="4" fill="#86BFA0"/>
+<rect id="Rectangle-path_4" x="21" y="19" width="5" height="4" fill="#86BFA0"/>
+<rect id="Rectangle-path_5" x="15" y="14" width="5" height="4" fill="#86BFA0"/>
+<rect id="Rectangle-path_6" x="21" y="14" width="5" height="4" fill="#86BFA0"/>
+<path id="Rectangle-path_7" fill-rule="evenodd" clip-rule="evenodd" d="M15 9H20V13H15V9Z" fill="#86BFA0"/>
+<path id="Rectangle-path_8" fill-rule="evenodd" clip-rule="evenodd" d="M21 9H26V13H21V9Z" fill="#86BFA0"/>
+<path id="Rectangle-path_9" fill-rule="evenodd" clip-rule="evenodd" d="M9 9H14V13H9V9Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_10" x="15" y="4" width="5" height="4" fill="#91A0AF"/>
+<path id="Rectangle-path_11" fill-rule="evenodd" clip-rule="evenodd" d="M21 4H22.25L26 8H21V4Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_12" x="9" y="4" width="5" height="4" fill="#91A0AF"/>
+</g>
+</g>
+<g id="32/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M22 1L29 9H22V1Z" fill="#D8E0E8"/>
+</g>
+<g id="64/chard/color/yellow">
+<path id="Shape" d="M7 9.5V28L16 29.5V8L7 9.5Z" fill="#ECF0F4"/>
+<path id="Chard" d="M15 9.2159V28.3182L3 26.5V11L15 9.2159Z" fill="#207347"/>
+</g>
+<g id="64/chard/letter/a">
+<path id="X" fill-rule="evenodd" clip-rule="evenodd" d="M4.97998 23L7.90798 18.728L5.09998 14.6H7.25998L9.01198 17.324L10.8 14.6H12.9L10.092 18.704L13.02 23H10.86L8.97598 20.12L7.07998 23H4.97998Z" fill="white"/>
+</g>
+</g>
+</svg>

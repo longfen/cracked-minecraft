@@ -1,0 +1,20 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_text_txt/mime_text_txt_16x16">
+<g id="16/baseshape">
+<g id="16/baseshape_2">
+<path id="OutsideBorder" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M12 3H5V4H12V3ZM14 5H5V6H14V5ZM5 7H14V8H5V7ZM14 9H5V10H14V9ZM5 11H14V12H5V11ZM14 13H5V14H14V13Z" fill="#91A0AF"/>
+</g>
+<g id="16/corner">
+<path id="InsideWhite" d="M12 4V0V0L16 4V4H12Z" fill="#D8E0E8"/>
+</g>
+<g id="16/chard/color/aqua">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4 2.66077V14.2205L8 15V2L4 2.66077Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M0 4L7 3V14L0 12.9V4Z" fill="#2B579A"/>
+</g>
+<g id="16/chard/letter/a">
+<path id="T" fill-rule="evenodd" clip-rule="evenodd" d="M2.98641 10.5V6.78H1.56641V5.83333H5.43307V6.78H4.01307V10.5H2.98641Z" fill="white"/>
+</g>
+</g>
+</svg>

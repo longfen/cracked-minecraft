@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>rss_24x24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="2.46153846" cy="13.5384615" r="2.46153846"></circle>
+        <path d="M11.0769231,16 L8.61538462,16 C8.61538462,11.2486154 4.75076923,7.38461538 0,7.38461538 L0,4.92307692 C6.10830769,4.92307692 11.0769231,9.89169231 11.0769231,16 Z" id="path-2"></path>
+        <path d="M16,16 L13.5384615,16 C13.5384615,8.53476923 7.46523077,2.46153846 0,2.46153846 L0,0 C8.82215385,0 16,7.17784615 16,16 Z" id="path-3"></path>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rss_48x48" transform="translate(4.000000, 4.000000)" fill-rule="nonzero">
+            <g id="Group">
+                <g id="rss_2_">
+                    <g id="Oval">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.5" cx="2.46153846" cy="13.5384615" r="2.21153846"></circle>
+                    </g>
+                    <g id="Shape">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.5" d="M10.8240795,15.75 L8.86191183,15.75 C8.73143836,11.058993 4.94082916,7.26856048 0.25,7.13808827 L0.25,5.17592045 C6.02211779,5.3073437 10.6926563,9.97788221 10.8240795,15.75 Z"></path>
+                    </g>
+                    <g id="Shape">
+                        <use fill="#FF7000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <path stroke-opacity="0.2" stroke="#AF5710" stroke-width="0.5" d="M15.7480458,15.75 L13.7862296,15.75 C13.653914,8.34473989 7.65526011,2.34608597 0.25,2.21377039 L0.25,0.251954246 C8.73610558,0.384704836 15.6152952,7.26389442 15.7480458,15.75 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

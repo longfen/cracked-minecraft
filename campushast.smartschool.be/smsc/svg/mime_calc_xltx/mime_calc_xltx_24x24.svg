@@ -1,0 +1,33 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_calc_xltx/mime_calc_xltx_24x24">
+<g id="24/baseshape">
+<g id="24/baseshape_2">
+<path id="OutsideBorder" fill-rule="evenodd" clip-rule="evenodd" d="M24 22.4998C24 22.776 23.7724 23 23.4998 23H6.50021C6.22395 23 6 22.7823 6 22.4992V1.50084C6 1.22423 6.21991 1 6.49827 1H20L24 5V22.4998Z" fill="#ECF0F4"/>
+</g>
+<g id="Group">
+<path id="Rectangle-path" fill-rule="evenodd" clip-rule="evenodd" d="M13 18H17V21H13V18Z" fill="#86BFA0"/>
+<path id="Rectangle-path_2" fill-rule="evenodd" clip-rule="evenodd" d="M18 18H22V21H18V18Z" fill="#86BFA0"/>
+<rect id="Rectangle-path_3" x="13" y="14" width="4" height="3" fill="#86BFA0"/>
+<rect id="Rectangle-path_4" x="18" y="14" width="4" height="3" fill="#86BFA0"/>
+<rect id="Rectangle-path_5" x="13" y="10" width="4" height="3" fill="#86BFA0"/>
+<rect id="Rectangle-path_6" x="18" y="10" width="4" height="3" fill="#86BFA0"/>
+<path id="Rectangle-path_7" fill-rule="evenodd" clip-rule="evenodd" d="M13 7H17V9H13V7Z" fill="#86BFA0"/>
+<path id="Rectangle-path_8" fill-rule="evenodd" clip-rule="evenodd" d="M18 7H22V9H18V7Z" fill="#86BFA0"/>
+<rect id="Rectangle-path_9" x="8" y="7" width="4" height="2" fill="#91A0AF"/>
+<rect id="Rectangle-path_10" x="13" y="3" width="4" height="3" fill="#91A0AF"/>
+<path id="Rectangle-path_11" fill-rule="evenodd" clip-rule="evenodd" d="M18 3H19L22 6H18V3Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_12" x="8" y="3" width="4" height="3" fill="#91A0AF"/>
+</g>
+</g>
+<g id="24/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M20 1L24 5H20V1Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape" d="M7 6V21L12 22V5L7 6Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M11 6V21L1 19.5V7.5L11 6Z" fill="#207347"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="X" fill-rule="evenodd" clip-rule="evenodd" d="M2.65002 17L5.09002 13.44L2.75002 10H4.55002L6.01002 12.27L7.50002 10H9.25002L6.91002 13.42L9.35002 17H7.55002L5.98002 14.6L4.40002 17H2.65002Z" fill="white"/>
+</g>
+</g>
+</svg>

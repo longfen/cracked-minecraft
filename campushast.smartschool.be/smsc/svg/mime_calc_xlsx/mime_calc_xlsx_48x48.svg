@@ -1,0 +1,35 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_calc_xlsx/mime_calc_xlsx_48x48">
+<g id="48/baseshape">
+<g id="48/baseshape_2">
+<path id="OutsideBorder" d="M44 44C44 45.1046 43.1046 46 42 46H12C10.8954 46 10 45.1046 10 44V4C10 2.89543 10.8954 2 12 2H34L44 12V44Z" fill="#ECF0F4"/>
+</g>
+<g id="Group">
+<rect id="Rectangle-path" x="23" y="37" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_2" x="32" y="37" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_3" x="23" y="31" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_4" x="32" y="31" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_5" x="23" y="25" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_6" x="32" y="25" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_7" x="23" y="19" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_8" x="32" y="19" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_9" x="23" y="13" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_10" x="32" y="13" width="8" height="5" fill="#86BFA0"/>
+<rect id="Rectangle-path_11" x="14" y="13" width="8" height="5" fill="#91A0AF"/>
+<rect id="Rectangle-path_12" x="23" y="7" width="8" height="5" fill="#91A0AF"/>
+<path id="Rectangle-path_13" fill-rule="evenodd" clip-rule="evenodd" d="M32 7H35L40 12H32V7Z" fill="#91A0AF"/>
+<rect id="Rectangle-path_14" x="14" y="7" width="8" height="5" fill="#91A0AF"/>
+</g>
+</g>
+<g id="48/corner">
+<path id="InsideWhite" fill-rule="evenodd" clip-rule="evenodd" d="M34 2L44 12H34V2Z" fill="#D8E0E8"/>
+</g>
+<g id="24/chard/color/yellow">
+<path id="Shape" d="M14 12V42L24 44V10L14 12Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M22 12V42L2 39V15L22 12Z" fill="#207347"/>
+</g>
+<g id="24/chard/letter/z">
+<path id="X" fill-rule="evenodd" clip-rule="evenodd" d="M5.30005 34L10.18 26.88L5.50005 20H9.10005L12.02 24.54L15 20H18.5L13.82 26.84L18.7 34H15.1L11.96 29.2L8.80005 34H5.30005Z" fill="white"/>
+</g>
+</g>
+</svg>

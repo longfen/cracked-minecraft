@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>dot-chart_24x24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24" rx="2"></rect>
+        <ellipse id="path-2" cx="3.4137931" cy="3.42857143" rx="1.93103448" ry="2"></ellipse>
+        <circle id="path-3" cx="15.2413793" cy="6.28571429" r="2"></circle>
+        <circle id="path-4" cx="10.2758621" cy="12.2857143" r="2"></circle>
+        <circle id="path-5" cx="6.13793103" cy="20" r="2"></circle>
+        <circle id="path-6" cx="19.3793103" cy="15.7142857" r="2"></circle>
+        <circle id="path-7" cx="15.2413793" cy="12.2857143" r="2"></circle>
+        <circle id="path-8" cx="21.0344828" cy="8" r="2"></circle>
+        <circle id="path-9" cx="10.2758621" cy="17.4285714" r="2"></circle>
+        <circle id="path-10" cx="6.31034483" cy="10.5714286" r="2"></circle>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="exercises_default_24x24">
+            <g id="Background_en_dviders">
+                <g id="Rectangle-608">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.638756793" stroke="#88898B" stroke-width="0.5" x="0.25" y="0.25" width="23.5" height="23.5" rx="2"></rect>
+                </g>
+            </g>
+            <g id="Oval-40">
+                <use fill="#3CD63D" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <ellipse stroke-opacity="0.2" stroke="#1588A6" stroke-width="0.5" cx="3.4137931" cy="3.42857143" rx="1.68103448" ry="1.75"></ellipse>
+            </g>
+            <g id="Oval-41">
+                <use fill="#3CD63D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <circle stroke-opacity="0.2" stroke="#1588A6" stroke-width="0.5" cx="15.2413793" cy="6.28571429" r="1.75"></circle>
+            </g>
+            <g id="Oval-42">
+                <use fill="#3CD63D" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <circle stroke-opacity="0.2" stroke="#1588A6" stroke-width="0.5" cx="10.2758621" cy="12.2857143" r="1.75"></circle>
+            </g>
+            <g id="Oval-43">
+                <use fill="#3CD63D" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <circle stroke-opacity="0.2" stroke="#1588A6" stroke-width="0.5" cx="6.13793103" cy="20" r="1.75"></circle>
+            </g>
+            <g id="Oval-44">
+                <use fill="#3CD63D" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <circle stroke-opacity="0.2" stroke="#1588A6" stroke-width="0.5" cx="19.3793103" cy="15.7142857" r="1.75"></circle>
+            </g>
+            <g id="Oval-45">
+                <use fill="#1A96F1" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <circle stroke-opacity="0.2" stroke="#2552AD" stroke-width="0.5" cx="15.2413793" cy="12.2857143" r="1.75"></circle>
+            </g>
+            <g id="Oval-47">
+                <use fill="#1A96F1" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <circle stroke-opacity="0.2" stroke="#2552AD" stroke-width="0.5" cx="21.0344828" cy="8" r="1.75"></circle>
+            </g>
+            <g id="Oval-48">
+                <use fill="#1A96F1" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <circle stroke-opacity="0.2" stroke="#2552AD" stroke-width="0.5" cx="10.2758621" cy="17.4285714" r="1.75"></circle>
+            </g>
+            <g id="Oval-46">
+                <use fill="#1A96F1" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <circle stroke-opacity="0.2" stroke="#2552AD" stroke-width="0.5" cx="6.31034483" cy="10.5714286" r="1.75"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

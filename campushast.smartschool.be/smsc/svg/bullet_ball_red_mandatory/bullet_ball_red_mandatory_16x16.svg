@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>bullet_ball_red_mandatory_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="16x16-SMSC.Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bullet_ball_red_mandatory_16x16" transform="translate(1.000000, 1.000000)">
+            <g id="bullet_ball_red_16x16-copy-2" fill="#FF0000">
+                <circle id="Oval-47" cx="7" cy="7" r="7"></circle>
+            </g>
+            <polygon id="Star-1-Copy" fill="#FFFFFF" points="7 9.27600599 3.47328849 11.854102 4.83538967 7.70332453 1.2936609 5.14589803 5.66219724 5.15867247 7 1 8.33780276 5.15867247 12.7063391 5.14589803 9.16461033 7.70332453 10.5267115 11.854102"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="m/mime_zip_rar/mime_zip_rar_16x16">
+<g id="16/baseshape">
+<g id="Group 2">
+<g id="16/baseshape_2">
+<path id="OutsideBorder" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M8 5H9V6H8V5ZM9 7V6H10V7H9ZM9 8V7H8V8V12H10V8H9ZM9 4H8V3H9V4ZM9 2H8V1H9V2ZM9 2V3H10V2H9ZM9 4H10V5H9V4Z" fill="#91A0AF"/>
+</g>
+<g id="Group 1">
+<g id="16/baseshape_3">
+<path id="OutsideBorder_2" d="M3 0V16H16V4L12 0H3Z" fill="#ECF0F4"/>
+</g>
+<path id="Combined Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M8 5H9V6H8V5ZM9 7V6H10V7H9ZM9 8V7H8V8V12H10V8H9ZM9 4H8V3H9V4ZM9 2H8V1H9V2ZM9 2V3H10V2H9ZM9 4H10V5H9V4Z" fill="#91A0AF"/>
+</g>
+</g>
+<g id="16/corner">
+<path id="InsideWhite" d="M12 4V0V0L16 4V4H12Z" fill="#D8E0E8"/>
+</g>
+<g id="16/chard/color/aqua">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M4 2.66077V14.2205L8 15V2L4 2.66077Z" fill="#ECF0F4"/>
+<path id="Chard" fill-rule="evenodd" clip-rule="evenodd" d="M0 4L7 3V14L0 12.9V4Z" fill="#F3AC00"/>
+</g>
+<g id="16/chard/letter/a">
+<path id="R" fill-rule="evenodd" clip-rule="evenodd" d="M1.65039 10.5V5.83333H3.78372C4.37706 5.83333 4.83706 6 5.14372 6.30667C5.40372 6.56667 5.54372 6.93333 5.54372 7.37333V7.38667C5.54372 8.14 5.13706 8.61333 4.54372 8.83333L5.68372 10.5H4.48372L3.48372 9.00667H2.67706V10.5H1.65039ZM2.67706 8.1H3.71706C4.21706 8.1 4.50372 7.83333 4.50372 7.44V7.42667C4.50372 6.98667 4.19706 6.76 3.69706 6.76H2.67706V8.1Z" fill="white"/>
+</g>
+</g>
+</svg>

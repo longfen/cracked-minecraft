@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>import1_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5 12 11 12 11 7 15 7 8 0 1 7 5 7"></polygon>
+    </defs>
+    <g id="16,-24,-32-en-48-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-Copy-19" fill="#2C9517" points="1 14 15 14 15 16 1 16"></polygon>
+        <g id="Shape-Copy-8" fill-rule="nonzero" transform="translate(8.000000, 6.000000) scale(1, -1) translate(-8.000000, -6.000000) ">
+            <use fill="#57D31A" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <path stroke-opacity="0.2" stroke="#2C9517" stroke-width="0.25" d="M5.125,11.875 L5.125,7 L5,6.875 L1.3017767,6.875 L8,0.176776695 L14.6982233,6.875 L11,6.875 L10.875,7 L10.875,11.875 L5.125,11.875 Z"></path>
+        </g>
+    </g>
+</svg>
